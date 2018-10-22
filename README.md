@@ -1,2 +1,2 @@
-# R-o-R
+# Ruby
 About Ruby here.
